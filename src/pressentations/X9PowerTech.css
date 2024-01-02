@@ -1,0 +1,21 @@
+.container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+h1, h2, h3 {
+  color: #333;
+}
+
+.philosophy, .mission-vision, .products-services, .team, .market-analysis, .contact {
+  margin-bottom: 30px;
+}
+
+.team-members {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+/* Add more styles as necessary to make it look visually appealing */
